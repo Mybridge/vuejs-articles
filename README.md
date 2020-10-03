@@ -4,9 +4,9 @@ Click "Watch" to get an email notification once a month for the Top 10 Vue.js ar
 
 [Mybridge AI](https://www.mybridge.co) ranks articles by the number of shares, minutes read, and by its own machine learning algorithm.
 
-Every month, about 1,000 ~ 1,500 articles, that are specific to Vue.js, are compared then the 10 finest articles are picked. This will ensure you that every single article you are going to read is great. 
+Every month, about 1,000 ~ 1,500 articles, specific to Vue.js, are compared and only 10 finest articles are picked. This will ensure you that every single article you read is great. 
 
-Also is published on [Mybridge Publication](https://medium.mybridge.co)
+Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 
 ## Monthly Series:
