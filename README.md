@@ -1,6 +1,6 @@
 # vue-articles-monthly
 
-Click "Watch" to get an email notification once a month for Top 10 Vue.js articles.
+Click "Watch" to get an email notification once a month for the Top 10 Vue.js articles.
 
 [Mybridge AI](https://www.mybridge.co) ranks articles by the number of shares, minutes read, and by its own machine learning algorithm.
 
